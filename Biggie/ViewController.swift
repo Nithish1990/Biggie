@@ -16,7 +16,25 @@ class ViewController: UIViewController {
         view.backgroundColor = .blue
         /*
          ;afaksasmn;askdvnsdknvsd;pkv
+         
+         
+         as
+         ako
+         
+         
+         
+         
+         
+         
          */
+        
+        
+        
+        
+        
+        
+        
+        view.backgroundColor = .cyan
     }
 
 
