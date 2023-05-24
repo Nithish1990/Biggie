@@ -13,7 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        view.backgroundColor = .cyan
+        view.backgroundColor = .white
+        /*
+         ;afaksasmn;askdvnsdknvsd;pkv
+         */
     }
 
 
