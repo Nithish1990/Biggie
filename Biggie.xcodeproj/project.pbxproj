@@ -14,6 +14,7 @@
 		A83BA52B2A1DD88000259781 /* Biggie.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A83BA5292A1DD88000259781 /* Biggie.xcdatamodeld */; };
 		A83BA52D2A1DD88200259781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A83BA52C2A1DD88200259781 /* Assets.xcassets */; };
 		A83BA5302A1DD88200259781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A83BA52E2A1DD88200259781 /* LaunchScreen.storyboard */; };
+		A83C8C5D2A2073D700B3EBDB /* PopOverPresentationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83C8C5C2A2073D700B3EBDB /* PopOverPresentationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A83BA52C2A1DD88200259781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A83BA52F2A1DD88200259781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A83BA5312A1DD88200259781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A83C8C5C2A2073D700B3EBDB /* PopOverPresentationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverPresentationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A83BA52E2A1DD88200259781 /* LaunchScreen.storyboard */,
 				A83BA5312A1DD88200259781 /* Info.plist */,
 				A83BA5292A1DD88000259781 /* Biggie.xcdatamodeld */,
+				A83C8C5C2A2073D700B3EBDB /* PopOverPresentationViewController.swift */,
 			);
 			path = Biggie;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				A83BA5252A1DD88000259781 /* ViewController.swift in Sources */,
 				A83BA5212A1DD88000259781 /* AppDelegate.swift in Sources */,
+				A83C8C5D2A2073D700B3EBDB /* PopOverPresentationViewController.swift in Sources */,
 				A83BA52B2A1DD88000259781 /* Biggie.xcdatamodeld in Sources */,
 				A83BA5232A1DD88000259781 /* SceneDelegate.swift in Sources */,
 			);
