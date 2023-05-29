@@ -7,10 +7,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LogiViewnPage: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = .systemYellow
+        self.view.backgroundColor = .systemMint
     }
 }
