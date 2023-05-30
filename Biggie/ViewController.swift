@@ -69,7 +69,7 @@ class LogiViewnPage: UIViewController, UIScrollViewDelegate {
             
             avatarImageView.centerXAnchor.constraint(equalTo: contentView.centerXAnchor),
             avatarImageView.topAnchor.constraint(equalTo: contentView.safeAreaLayoutGuide.topAnchor, constant: 20),
-//            avatarImageView.bottomAnchor.constraint(lessThanOrEqualTo: view.centerYAnchor),
+
             
             avatarImageView1.centerXAnchor.constraint(equalTo: contentView.centerXAnchor),
             avatarImageView1.topAnchor.constraint(equalTo: avatarImageView.bottomAnchor, constant: 20),
